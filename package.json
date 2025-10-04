@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mdtanveer0786/to-do-application/issues"
   },
-  "homepage": "https://github.com/mdtanveer0786/to-do-application#readme"
+  "homepage": "https://github.com/mdtanveer0786/to-do-application#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
